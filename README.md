@@ -1,6 +1,6 @@
 # AE - Course Project 
 
-### Problem Statment : Crash Detection System
+### Problem Statment : Crash Detection and Spot detection system
 ## Description
 The IoT-Based Crash Detection and Alert System is designed to enhance vehicle safety by leveraging advanced sensor technologies, GPS, and cloud computing. When a crash occurs, the system immediately sends an alert to the cloud, which then notifies nearby emergency services. Simultaneously, the vehicle's GPS coordinates are tracked to provide precise location data. The cloud also maintains a database of accident-prone zones. If a vehicle approaches one of these zones within 200 meters, the system warns the driver via the infotainment system. Should the vehicle exceed the speed limit in these zones, the system automatically disengages the accelerator to maintain a safe speed. This comprehensive approach ensures timely assistance during accidents, alerts drivers about potential hazards, and enforces speed limits in high-risk areas, significantly enhancing overall road safety.
 
