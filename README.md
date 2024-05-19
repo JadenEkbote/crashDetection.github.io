@@ -27,6 +27,10 @@ The Block Diagram for the Crash Detection:
 
 ***Flowchart***:
 The Flow Chart for the Crash Detection and alert system:
+
+
+
+
 <img width="500" alt="Flow chart" src=https://github.com/JadenEkbote/crashDetection.github.io/assets/97268081/bf95886f-91e4-493f-9d34-a79183255b56>
 
 
