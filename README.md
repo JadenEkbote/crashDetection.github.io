@@ -4,6 +4,46 @@
 ***Description***:
 The IoT-Based Crash Detection and Alert System is designed to enhance vehicle safety by leveraging advanced sensor technologies, GPS, and cloud computing. When a crash occurs, the system immediately sends an alert to the cloud, which then notifies nearby emergency services. Simultaneously, the vehicle's GPS coordinates are tracked to provide precise location data. The cloud also maintains a database of accident-prone zones. If a vehicle approaches one of these zones within 200 meters, the system warns the driver via the infotainment system. Should the vehicle exceed the speed limit in these zones, the system automatically disengages the accelerator to maintain a safe speed. This comprehensive approach ensures timely assistance during accidents, alerts drivers about potential hazards, and enforces speed limits in high-risk areas, significantly enhancing overall road safety.
 
+### Methodology
+
+The IoT-Based Crash Detection and Alert System is developed through the following key phases:
+
+1. **System Design**: Identify requirements, design system architecture, and plan hardware-software integration.
+
+2. **Hardware Integration**: 
+   - Install and calibrate crash detection sensors.
+   - Integrate GPS modules for real-time location tracking.
+   - Interface with the vehicle’s ECU for speed control.
+
+3. **Software Development**:
+   - Develop embedded software for real-time crash detection.
+   - Set up a cloud platform for alert management and data storage.
+   - Implement secure communication protocols (e.g., MQTT, HTTP).
+
+4. **Crash Detection Algorithm**: Process sensor data to detect crashes and generate alerts.
+
+5. **Cloud Services**:
+   - Manage crash alerts and notify emergency services.
+   - Maintain a database of accident-prone zones.
+
+6. **Proximity Alert System**: 
+   - Monitor vehicle proximity to accident-prone zones using GPS.
+   - Display warning messages on the infotainment system when nearing high-risk areas.
+
+7. **Speed Control Mechanism**:
+   - Monitor vehicle speed in accident-prone zones.
+   - Automatically disengage the accelerator if speed exceeds the limit.
+
+8. **Testing and Validation**:
+   - Conduct unit and integration testing.
+   - Perform real-world field testing for system validation.
+
+9. **Deployment and Maintenance**:
+   - Install the system in vehicles.
+   - Provide ongoing monitoring and updates for reliability.
+
+This methodology ensures a robust, efficient, and reliable system for enhancing vehicle safety and timely accident response.
+
 ***Litrature Survey***:
 From the Litreature survey we found that the main sensors needed for Crash Detection are: <br /> 
 
