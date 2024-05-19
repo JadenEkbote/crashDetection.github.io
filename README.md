@@ -15,7 +15,8 @@ From the Litreature survey we found that the main sensors needed for Crash Detec
 2. This sensitivity allows for the rapid identification of crash events, triggering safety mechanisms such as airbags and emergency response systems almost instantaneously.<br /> 
 
 
-[Litreature Survey](https://github.com/JadenEkbote/crashDetection.github.io/tree/main/resarch)
+[Litreature Survey]![Blank diagram - Page 1](https://github.com/JadenEkbote/crashDetection.github.io/assets/97268081/3536a340-085c-4255-a704-0764a0a9cadc)
+(https://github.com/JadenEkbote/crashDetection.github.io/tree/main/resarch)
 
 
 ***Block Diagram***:
@@ -24,5 +25,8 @@ The Block Diagram for the Crash Detection:
 
 <img width="505" alt="Block Diagram" src="https://github.com/JadenEkbote/crashDetection.github.io/assets/97228905/3f19a8aa-582e-404f-975e-e7f4afcb129b">
 
-**Flowchart**:The Flow Chart for the Crash Detection and alert system:
-![CRASHDETECTION- Page 1](https://github.com/JadenEkbote/crashDetection.github.io/assets/97268081/447fd813-c814-4265-9a87-4172e028a60d)
+***Flowchart***:
+The Flow Chart for the Crash Detection and alert system:
+![Blank diagram - Page 1](https://github.com/JadenEkbote/crashDetection.github.io/assets/97268081/bf95886f-91e4-493f-9d34-a79183255b56)
+
+
