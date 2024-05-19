@@ -44,7 +44,7 @@ The IoT-Based Crash Detection and Alert System is developed through the followin
 
 This methodology ensures a robust, efficient, and reliable system for enhancing vehicle safety and timely accident response.
 
-## Litrature Survey
+## Literature Survey
 From the Litreature survey we found that the main sensors needed for Crash Detection are: <br /> 
 
 
