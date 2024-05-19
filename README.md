@@ -1,4 +1,4 @@
-# AE - Course Project 
+# Automotive Electronics - Course Project 
 
 ### Problem Statment : Crash Detection and Spot detection system
 ## Description
@@ -13,11 +13,12 @@ From the Litreature survey we found that the main sensors needed for Crash Detec
 - By continuously tracking the speed and movement of the vehicle, the GPS module can help in determining the impact of the crash.<br /> 
 - The GPS module records essential data, such as the vehicle's path, speed, and position before, during, and after the crash. 
 
-**Vibration Sensor** : 1. Vibration sensors used in crash detection are highly sensitive and capable of detecting sudden, high-magnitude vibrations indicative of a collision. <br /> 
-2. This sensitivity allows for the rapid identification of crash events, triggering safety mechanisms such as airbags and emergency response systems almost instantaneously.<br /> 
+**Vibration Sensor** : 
+- Vibration sensors used in crash detection are highly sensitive and capable of detecting sudden, high-magnitude vibrations indicative of a collision. <br />
+-  This sensitivity allows for the rapid identification of crash events, triggering safety mechanisms such as airbags and emergency response systems almost instantaneously.<br /> 
 
 
-[Literature Survey](https://github.com/JadenEkbote/crashDetection.github.io/tree/main/resarch)
+To Find the Papers we Reasearched on for our problem Statement,[Click Here.](https://github.com/JadenEkbote/crashDetection.github.io/tree/main/resarch)
 
 
 
