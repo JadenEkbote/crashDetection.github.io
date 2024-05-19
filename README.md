@@ -1,7 +1,7 @@
 # AE - Course Project 
 
 ### Problem Statment : Crash Detection System
-## Description:
+## Description
 The IoT-Based Crash Detection and Alert System is designed to enhance vehicle safety by leveraging advanced sensor technologies, GPS, and cloud computing. When a crash occurs, the system immediately sends an alert to the cloud, which then notifies nearby emergency services. Simultaneously, the vehicle's GPS coordinates are tracked to provide precise location data. The cloud also maintains a database of accident-prone zones. If a vehicle approaches one of these zones within 200 meters, the system warns the driver via the infotainment system. Should the vehicle exceed the speed limit in these zones, the system automatically disengages the accelerator to maintain a safe speed. This comprehensive approach ensures timely assistance during accidents, alerts drivers about potential hazards, and enforces speed limits in high-risk areas, significantly enhancing overall road safety.
 
 ## Methodology
@@ -44,7 +44,7 @@ The IoT-Based Crash Detection and Alert System is developed through the followin
 
 This methodology ensures a robust, efficient, and reliable system for enhancing vehicle safety and timely accident response.
 
-## Litrature Survey:
+## Litrature Survey
 From the Litreature survey we found that the main sensors needed for Crash Detection are: <br /> 
 
 
@@ -60,13 +60,13 @@ From the Litreature survey we found that the main sensors needed for Crash Detec
 
 
 
-## Block Diagram:
+## Block Diagram
 The Block Diagram for the Crash Detection:
 
 
 <img width="505" alt="Block Diagram" src="https://github.com/JadenEkbote/crashDetection.github.io/assets/97228905/3f19a8aa-582e-404f-975e-e7f4afcb129b">
 
-## Flowchart:
+## Flowchart
 The Flow Chart for the Crash Detection and alert system:
 
 
