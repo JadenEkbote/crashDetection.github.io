@@ -5,8 +5,8 @@ Description:
 
 ***Litrature Survey***:
 From the Litreature survey we found that the main sensors needed for Crash Detection are: 
-**GPS Module** : 1. The GPS module captures the precise location data during a crash. 
-2. By continuously tracking the speed and movement of the vehicle, the GPS module can help in determining the impact of the crash.
+**GPS Module** : 1. The GPS module captures the precise location data during a crash. <br /> 
+2. By continuously tracking the speed and movement of the vehicle, the GPS module can help in determining the impact of the crash.<br /> 
 3. The GPS module records essential data, such as the vehicle's path, speed, and position before, during, and after the crash. 
 
 
