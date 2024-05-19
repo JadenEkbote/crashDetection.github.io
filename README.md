@@ -18,7 +18,7 @@ From the Litreature survey we found that the main sensors needed for Crash Detec
 -  This sensitivity allows for the rapid identification of crash events, triggering safety mechanisms such as airbags and emergency response systems almost instantaneously.<br /> 
 
 
-To Find the Papers we Reasearched on for our problem Statement,[Click Here.](https://github.com/JadenEkbote/crashDetection.github.io/tree/main/resarch)
+To Find the Papers we Reasearched on for our problem Statement,[ Click Here.](https://github.com/JadenEkbote/crashDetection.github.io/tree/main/resarch)
 
 
 
