@@ -28,33 +28,33 @@ The Crash Detection and Alert System is developed through the following key phas
 
 1. **System Design**
    
-3. **Hardware Integration**: 
+2. **Hardware Integration**: 
    - Integrating GPS modules for real-time location tracking.
    - Interfacing with the vehicle’s ECU for speed control.
 
-4. **Software Development**:
+3. **Software Development**:
    - Developing embedded software for real-time crash detection.
    - Setting up a cloud platform for alert management and data storage.
   
-5. **Crash Detection Algorithm**: Processing sensor data to detect crashes and generate alerts.
+4. **Crash Detection Algorithm**: Processing sensor data to detect crashes and generate alerts.
 
-6. **Cloud Services**:
+5. **Cloud Services**:
    - Managing crash alerts and notify emergency services.
    - Maintain a database of accident-prone zones.
 
-7. **Proximity Alert System**: 
+6. **Proximity Alert System**: 
    - Monitor vehicle proximity to accident-prone zones using GPS.
    - Display warning messages on the infotainment system when nearing high-risk areas.
 
-8. **Speed Control Mechanism**:
+7. **Speed Control Mechanism**:
    - Monitoring vehicle speed in accident-prone zones.
    - Automatically disengage the accelerator if speed exceeds the limit.
 
-9. **Testing and Validation**:
+8. **Testing and Validation**:
    - Conduct unit and integration testing.
    - Perform real-world field testing for system validation.
 
-10. **Deployment and Maintenance**:
+9. **Deployment and Maintenance**:
    - Install the system in vehicles.
    - Provide ongoing monitoring and updates for reliability.
 
