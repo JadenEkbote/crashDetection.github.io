@@ -29,19 +29,17 @@ The Crash Detection and Alert System is developed through the following key phas
 1. **System Design**
    
 3. **Hardware Integration**: 
-   - Install and calibrate crash detection sensors.
-   - Integrate GPS modules for real-time location tracking.
-   - Interface with the vehicle’s ECU for speed control.
+   - Integrating GPS modules for real-time location tracking.
+   - Interfacing with the vehicle’s ECU for speed control.
 
 4. **Software Development**:
-   - Develop embedded software for real-time crash detection.
-   - Set up a cloud platform for alert management and data storage.
-   - Implement secure communication protocols (e.g., MQTT, HTTP).
-
-5. **Crash Detection Algorithm**: Process sensor data to detect crashes and generate alerts.
+   - Developing embedded software for real-time crash detection.
+   - Setting up a cloud platform for alert management and data storage.
+  
+5. **Crash Detection Algorithm**: Processing sensor data to detect crashes and generate alerts.
 
 6. **Cloud Services**:
-   - Manage crash alerts and notify emergency services.
+   - Managing crash alerts and notify emergency services.
    - Maintain a database of accident-prone zones.
 
 7. **Proximity Alert System**: 
@@ -49,7 +47,7 @@ The Crash Detection and Alert System is developed through the following key phas
    - Display warning messages on the infotainment system when nearing high-risk areas.
 
 8. **Speed Control Mechanism**:
-   - Monitor vehicle speed in accident-prone zones.
+   - Monitoring vehicle speed in accident-prone zones.
    - Automatically disengage the accelerator if speed exceeds the limit.
 
 9. **Testing and Validation**:
@@ -65,7 +63,7 @@ This methodology ensures a robust, efficient, and reliable system for enhancing 
 
 
 ## Block Diagram
-The Block Diagram for the Crash Detection:
+The Block Diagram for the Crash Detection and Alert System:
 
 
 <img width="505" alt="Block Diagram" src="https://github.com/JadenEkbote/crashDetection.github.io/assets/97228905/3f19a8aa-582e-404f-975e-e7f4afcb129b">
