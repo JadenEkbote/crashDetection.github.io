@@ -19,7 +19,7 @@ From the Litreature survey we found that the main sensors needed for Crash Detec
 
 **MPU6050 (Accelerometer)** : 
 - The MPU6050 combines a 3-axis gyroscope and a 3-axis accelerometer, allowing it to measure angular velocity and linear acceleration along three axes. <br />
--  The MPU6050 communicates with microcontrollers and other devices via the I2C (Inter-Integrated Circuit) bus.<br /> 
+-  The MPU6050 communicates with microcontrollers and other devices through the I2C (Inter-Integrated Circuit) bus.<br /> 
 
 
 To Find the Papers we Reasearched on for our problem Statement,[ Click Here.](https://github.com/JadenEkbote/crashDetection.github.io/tree/main/resarch)
