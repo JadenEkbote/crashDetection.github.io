@@ -24,7 +24,7 @@ To Find the Papers we Reasearched on for our problem Statement,[ Click Here.](ht
 
 ## Methodology
 
-The IoT-Based Crash Detection and Alert System is developed through the following key phases:
+The Crash Detection and Alert System is developed through the following key phases:
 
 1. **System Design**: Identify requirements, design system architecture, and plan hardware-software integration.
 
